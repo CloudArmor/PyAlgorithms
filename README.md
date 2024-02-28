@@ -3,7 +3,7 @@
   <a href="https://github.com/CloudArmor/">
     <img src="https://raw.githubusercontent.com/CloudArmor/website/1cd824df116b27029f17c2d1b42d81731f28a920/public/logo.svg" height="100">
   </a>
-  <h1><a href="https://github.com/CloudArmor/">The Algorithms</a> - Python</h1>
+  <h1><a href="https://github.com/CloudArmor/">CloudArmor Algorithms</a> - Python</h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://gitpod.io/#https://github.com/CloudArmor/PyAlgorithms">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome">
   </a>
   <img src="https://img.shields.io/github/repo-size/CloudArmor/PyAlgorithms.svg?label=Repo%20size&style=flat-square" height="20">
-  <a href="https://the-algorithms.com/discord">
+  <a href="https://cloudarmor.github.io/discord">
     <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square" height="20" alt="Discord chat">
   </a>
   <a href="https://gitter.im/CloudArmor/community">
@@ -42,7 +42,7 @@ Read through our [Contribution Guidelines](CONTRIBUTING.md) before you contribut
 
 ## Community Channels
 
-We are on [Discord](https://the-algorithms.com/discord) and [Gitter](https://gitter.im/CloudArmor/community)! Community channels are a great way for you to ask questions and get help. Please join us!
+We are on [Discord](https://cloudarmor.github.io/discord) and [Gitter](https://gitter.im/CloudArmor/community)! Community channels are a great way for you to ask questions and get help. Please join us!
 
 ## List of Algorithms
 
