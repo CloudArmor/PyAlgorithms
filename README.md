@@ -1,9 +1,6 @@
 <div align="center">
 <!-- Title: -->
-  <a href="https://github.com/CloudArmor/">
-    <img src="https://raw.githubusercontent.com/CloudArmor/website/1cd824df116b27029f17c2d1b42d81731f28a920/public/logo.svg" height="100">
-  </a>
-  <h1><a href="https://github.com/CloudArmor/">PyAlgorithms is Python</a> - Algorithms</h1>
+  <h1><a href="https://github.com/CloudArmor/">Python</a> - Algorithms</h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://gitpod.io/#https://github.com/CloudArmor/PyAlgorithms">
