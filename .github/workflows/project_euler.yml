@@ -1,5 +1,4 @@
 on:
-  workflow_dispatch:
   pull_request:
     # Run only if a file is changed within the project_euler directory and related files
     paths:

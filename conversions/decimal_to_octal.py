@@ -3,7 +3,7 @@
 import math
 
 # Modified from:
-# https://github.com/CloudArmor/Javascript/blob/master/Conversions/DecimalToOctal.js
+# https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js
 
 
 def decimal_to_octal(num: int) -> str:

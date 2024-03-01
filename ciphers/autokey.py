@@ -14,13 +14,13 @@ def encrypt(plaintext: str, key: str) -> str:
     encrypted ciphertext.
     >>> encrypt("hello world", "coffee")
     'jsqqs avvwo'
-    >>> encrypt("coffee is good as python", "CloudArmor")
+    >>> encrypt("coffee is good as python", "TheAlgorithms")
     'vvjfpk wj ohvp su ddylsv'
     >>> encrypt("coffee is good as python", 2)
     Traceback (most recent call last):
         ...
     TypeError: key must be a string
-    >>> encrypt("", "CloudArmor")
+    >>> encrypt("", "TheAlgorithms")
     Traceback (most recent call last):
         ...
     ValueError: plaintext is empty
@@ -70,13 +70,13 @@ def decrypt(ciphertext: str, key: str) -> str:
     ciphertext.
     >>> decrypt("jsqqs avvwo", "coffee")
     'hello world'
-    >>> decrypt("vvjfpk wj ohvp su ddylsv", "CloudArmor")
+    >>> decrypt("vvjfpk wj ohvp su ddylsv", "TheAlgorithms")
     'coffee is good as python'
     >>> decrypt("vvjfpk wj ohvp su ddylsv", "")
     Traceback (most recent call last):
         ...
     ValueError: key is empty
-    >>> decrypt(527.26, "CloudArmor")
+    >>> decrypt(527.26, "TheAlgorithms")
     Traceback (most recent call last):
         ...
     TypeError: ciphertext must be a string

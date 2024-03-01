@@ -7,7 +7,7 @@
 
 # Order is important. The last matching pattern has the most precedence.
 
-/.*  @FortiShield
+/.*  @cclauss
 
 # /arithmetic_analysis/
 
@@ -85,4 +85,4 @@
 
 # /traversals/
 
-/web_programming/  @FortiShield
+/web_programming/  @cclauss
